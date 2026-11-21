@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zensiasmp.aternos.me",
-    "port": 28122,
+    "ip": "nazronsmp.aternos.me",
+    "port": 14570,
     "version": "1.20.1",
     "try-creative": false
   },
