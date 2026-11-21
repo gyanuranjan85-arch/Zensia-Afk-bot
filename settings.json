@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 600000000000,
       "messages": [
         "I'm a regular player",
         "JOIN DISCORD SERVER FOR MORE UPDATES",
-        "JOIN OUR ZENSIA SMP DISCORD SERVER NOW !"
+        " !"
       ]
     },
     "chat-log": true,
